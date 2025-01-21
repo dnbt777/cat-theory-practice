@@ -1,4 +1,4 @@
-{-
+{:
  - https://www.youtube.com/watch?v=O2lZkr-aAqk
  - Category Theory 2.1: Functions, epimorphisms
  -
